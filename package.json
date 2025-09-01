@@ -24,7 +24,7 @@
     "@types/node": "^18.16.14",
     "@types/qrcode": "^1.5.0",
     "@types/uuid": "^9.0.1",
-    "@vicons/antd": "^0.12.0",
+    "@vicons/antd": "^0.13.0",
     "@vicons/carbon": "^0.12.0",
     "@vicons/fa": "^0.12.0",
     "@vicons/fluent": "^0.12.0",
