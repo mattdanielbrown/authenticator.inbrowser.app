@@ -50,7 +50,7 @@
     "prettier": "^2.8.8",
     "qr-scanner": "^1.4.2",
     "qrcode": "^1.5.3",
-    "typescript": "~4.7.4",
+    "typescript": "~4.9.5",
     "uuid": "^9.0.0",
     "vite": "^4.3.8",
     "vite-plugin-pwa": "^0.14.7",
